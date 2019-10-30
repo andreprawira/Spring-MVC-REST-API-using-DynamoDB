@@ -1,0 +1,6 @@
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\AwsDynamoDbSpringBootApplication.java
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\model\Student.java
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\repository\DynamoDbRepository.java
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\config\DynamoDbConfig.java
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\model\Address.java
+D:\YASH Training\GitHub\AWS-DynamoDB-SpringBoot-master\src\main\java\com\yash\aws\dynamodb\controller\DynamoDbController.java
