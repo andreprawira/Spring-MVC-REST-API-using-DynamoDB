@@ -1,2 +1,2 @@
-# AWS-DynamoDB-SpringBoot
- REST API developed using SpringBoot with AWS DynamoDB 
+# Spring MVC REST API with DynamoDB
+ REST API developed using Spring MVC with AWS DynamoDB 
